@@ -1,6 +1,6 @@
 # HTTP2 SERVER PUSH #
 
-Here's the code that you'll need to add multiple files to a HTTP/2 Server Push setup on Apache.
+Here's the code that you'll need to add multiple files to a HTTP/2 Server Push setup on Apache. Just add it to your .htaccess file and change the links and you are ready.
 
 ```
  Header append Link: "</TechNuttyLogo.svg>; rel=preload; as=image"
