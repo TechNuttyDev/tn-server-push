@@ -9,3 +9,10 @@ Here's the code that you'll need to add multiple files to a HTTP/2 Server Push s
 
  Header append Link: "(you get the point :)"
  ```
+
+Just make sure to change the as tag to the link that you are adding, there's:
+
+image
+script
+style
+media
